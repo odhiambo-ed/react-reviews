@@ -156,7 +156,7 @@ main {
   margin-right: auto;
 }
 .container {
-  width: 80vw;
+  width: 90vw;
   max-width: var(--fixed-width);
 }
 .review {
